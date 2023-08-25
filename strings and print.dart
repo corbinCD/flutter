@@ -1,4 +1,4 @@
-//learnings strings
+//learnings strings page 13/26
 //string, var, dyanmic, and printing
 void main() {
   //dynamic allowed you to change the variable later instead of var which is static

@@ -1,3 +1,4 @@
+//page 18/31
 void main(){
 print(covertToBoolLong(0));
 print(covertToBool(0));
