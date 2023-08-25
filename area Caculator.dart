@@ -1,4 +1,4 @@
-//Area Caculator
+//Area Caculator page 13/26
 //double for decimals, int is for no decimals
 void main(){
   double result = calculateArea(12,5,false);

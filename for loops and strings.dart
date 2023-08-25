@@ -1,4 +1,4 @@
-//learning for loops
+//learning for loops page 16/29
 //types of loops for, while, do while
  
 //void main(){
