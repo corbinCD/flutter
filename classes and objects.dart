@@ -12,7 +12,12 @@ void main(){
 class Person {
   String name = "", surname = '';
   int _age = 0;
+  //this is a constructor person.empty() creates a contructor with no paramentors
+  //you can as many name contructors but you  can only have one named constructor
+
  Person(String name, String surname){
+  // could be written as person(this.name this.surname)
+  //this assignes a argument to an object variable
   this.name = name;
   this.surname = surname;
  }
@@ -29,3 +34,4 @@ class Person {
     return _age;
   }
 }
+fda
